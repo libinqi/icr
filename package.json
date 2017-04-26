@@ -1,0 +1,15 @@
+{
+  "name": "icr",
+  "version": "1.0.0",
+  "description": "IC卡阅读器node.js模块",
+  "main": "index.js",
+  "author": {
+    "email": "libinqi@outlook.com",
+    "name": "libinqi"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/libinqi/icr.git"
+  }
+}
